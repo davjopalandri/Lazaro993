@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Lazaro993
-- 👀 I’m interested in Learning Web development and Data Scientist and many other things ! I'm an active learner.
-- 🌱 I’m currently learning HTML, CSS, Sistem administration, Ip protocols, french, and many other stuff.
+- 👋 Hi, I’m David Palandri (@Lazaro993)
+- I’m Learning I.A. at U.N.R. (National Rosario University) 
+- 👀 I'm an active learner.
+- 🌍 I'm a physichs teacher with passion for S.T.E.M. education. 
 - 💞️ I’m looking to collaborate on I.A.
 - 📫 How to reach me: palandridavid93@gmail.com
 
